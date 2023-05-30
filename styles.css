@@ -422,6 +422,8 @@ i.fa-plus:hover {
 
     .card {
         overflow: hidden;
+        position:absolute;
+        left:5%;
     }
 
 }
