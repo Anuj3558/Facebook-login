@@ -107,7 +107,7 @@ h2 {
 
 input#new-acc {
     padding: 0;
-    background-color: #42b7;
+    background-color: #42b72a;
     color: azure;
     width: 70%;
 }
@@ -417,16 +417,11 @@ i.fa-plus:hover {
 
 @media screen and (height:900px) {
     body {
-        overflow-x: hidden;
+        overflow-y: hidden;
     }
 
     .card {
         overflow: hidden;
-    }
-    .card1
-    {
-        position: absolute;
-        left: 3%;
     }
 
 }
